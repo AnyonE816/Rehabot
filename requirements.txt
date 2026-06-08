@@ -1,0 +1,5 @@
+# 环境所需第三方库
+PyQt5>=5.15.0
+opencv-python>=4.5.0
+mediapipe>=0.8.10
+numpy>=1.21.0

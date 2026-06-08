@@ -1,0 +1,12 @@
+# config.py
+# 动作检测阈值
+ANGLE_STANDARD_THRESHOLD = 160  # 手臂伸直的角度阈值
+OFFSET_STANDARD_THRESHOLD = 80  # 位置偏移的阈值
+ERROR_WARNING_DELAY = 1.5       # 警告转错误的延迟时间
+
+# 评分阈值
+ANGLE_ERROR_THRESHOLD = 8
+OFFSET_ERROR_THRESHOLD = 5
+
+# 录屏配置
+RECORDING_FPS = 15
