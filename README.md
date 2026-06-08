@@ -64,8 +64,8 @@ Rehabilitation/
 ## 快速开始
 ```bash
 # 1. 克隆项目
-git clone https://github.com/yourname/Rehabot.git
-cd Rehabilitation
+git clone https://github.com/AnyonE816/Rehabot.git
+cd Rehabot
 
 # 2. 安装项目依赖
 pip install -r requirements.txt
